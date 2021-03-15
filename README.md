@@ -1,3 +1,5 @@
 # Object-Identifciation_Fashion
 
-Personal Project: Training Keras library on FashionMNIST dataset to detect objects (work in progress)
+Object Identifier in Keras, trained using Fashion MNIST Dataset.
+
+Current goal: create function to upload any jpg image from computer
